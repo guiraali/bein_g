@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,beIN Sports FullHD 1 MAX
+http://31.220.50.230:8000/live/bein852741852/max852741965/24.ts
+#EXTINF:-1,beIN Sports FullHD 2 MAX
+http://31.220.50.230:8000/live/bein852741852/max852741965/25.ts
+#EXTINF:-1,beIN Sports FullHD 3 MAX
+http://31.220.50.230:8000/live/bein852741852/max852741965/26.ts
+#EXTINF:-1,beIN Sports HD 1 MAX
+http://31.220.50.230:8000/live/bein852741852/max852741965/27.ts
+#EXTINF:-1,beIN Sports HD 2 MAX
+http://31.220.50.230:8000/live/bein852741852/max852741965/28.ts
+#EXTINF:-1,beIN Sports HD 3 MAX
+http://31.220.50.230:8000/live/bein852741852/max852741965/29.ts
+#EXTINF:-1,beIN Sports SD 1 MAX
+http://31.220.50.230:8000/live/bein852741852/max852741965/30.ts
+#EXTINF:-1,beIN Sports SD 2 MAX
+http://31.220.50.230:8000/live/bein852741852/max852741965/31.ts
+#EXTINF:-1,beIN Sports Low 1 MAX
+http://31.220.50.230:8000/live/bein852741852/max852741965/32.ts
+#EXTINF:-1,beIN Sports Low 2 MAX
+http://31.220.50.230:8000/live/bein852741852/max852741965/33.ts
+#EXTINF:-1,beIN Sports VeryLow 1 MAX
+http://31.220.50.230:8000/live/bein852741852/max852741965/34.ts
+#EXTINF:-1,beIN Sports VeryLow 2 MAX
+http://31.220.50.230:8000/live/bein852741852/max852741965/35.ts
+#EXTINF:-1,beIN Sports 1 MAX (Radio)
+http://31.220.50.230:8000/live/bein852741852/max852741965/36.ts
+#EXTINF:-1,beIN Sports 2 MAX (Radio)
+http://31.220.50.230:8000/live/bein852741852/max852741965/37.ts
+#EXTINF:-1,beIN Sports 3 MAX (Radio)
+http://31.220.50.230:8000/live/bein852741852/max852741965/38.ts
+#EXTINF:-1,AR: beIN SPORTS World Cup 1 HD
+http://hd.007iptv.com:8000/live/e1oQ1phlkV/XuhvWtGNsY/7001.ts
+#EXTINF:-1,AR: beIN SPORTS World Cup 2 HD
+http://hd.007iptv.com:8000/live/e1oQ1phlkV/XuhvWtGNsY/7002.ts
+#EXTINF:-1,Zdf
+http://31.220.50.230:8000/live/bein852741852/max852741965/39.ts
